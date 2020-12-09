@@ -1,4 +1,4 @@
-# pupiltracker
+# Pupil Tracker
 The code take input from a RGB camera and detects face boundary and eyes boundaries. It detects the pupils within the eyes and gives their x- and y- coordinates and radii.
 RBE526: Human Robot Interaction
 Fall 2020
@@ -25,5 +25,7 @@ Output:
 1. Please check the documentation for the theory, pseudo code, and results.
 2. Maximum comments are used in the script to make it easy for the reader to understand the code.
 3. A short video demonstration is provided along with the submission. 
+
+A short video presentation is found on: https://www.youtube.com/watch?v=QxNhjNDLaEM
 
 Thank You!
